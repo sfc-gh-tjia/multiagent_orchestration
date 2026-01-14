@@ -91,5 +91,6 @@ SELECT ASK_AGENT_1('Your question here');
 
 ## Resources
 
+- [Multi-Agent Orchestration Quickstart](https://www.snowflake.com/en/developers/guides/multi-agent-orchestration-snowflake-intelligence/) - Full guide on Snowflake Developers
 - [Cortex Agents Docs](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents)
 - [External Access Integrations](https://docs.snowflake.com/en/developer-guide/external-network-access/external-network-access-overview)
